@@ -1,0 +1,79 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="terminal_blog" values="config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.warn.about.crlf.enabled" collectionTime="1457669293696" />
+      <project id="web_blog" values="config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.update.all.roots.enabled" collectionTime="1462579422812" />
+      <project id="react" values="config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.force.push.enabled" collectionTime="1462580008659" />
+      <project id="price_of_chair" values="config.warn.about.crlf.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.update.all.roots.enabled" collectionTime="1457304607843" />
+      <project id="go" values="config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled" collectionTime="1478833080121" />
+      <project id="price_alert" values="config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.ssh.enabled" collectionTime="1457905684104" />
+      <project id="bioinformatics" values="config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.ssh.enabled" collectionTime="1478923644733" />
+      <project id="PycharmProjects" values="config.push.update.all.roots.enabled,config.save.policy.STASH,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled,config.warn.about.detached.enabled" collectionTime="1457108637456" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="terminal_blog" values="PythonConfigurationType" collectionTime="1457669293514" />
+      <project id="web_blog" values="PythonConfigurationType" collectionTime="1462579422629" />
+      <project id="price_of_chair" values="PythonConfigurationType" collectionTime="1457304607770" />
+      <project id="go" values="PythonConfigurationType" collectionTime="1478833080086" />
+      <project id="bioinformatics" values="PythonConfigurationType" collectionTime="1478923644686" />
+      <project id="PycharmProjects" values="PythonConfigurationType" collectionTime="1457108637405" />
+    </group>
+    <group name="images.ide.background">
+      <project id="bioinformatics" values="editor 0,frame 0" collectionTime="1478923644730" />
+      <project id="go" values="frame 0,editor 0" collectionTime="1478833080120" />
+    </group>
+    <group name="py-interpreter">
+      <project id="terminal_blog" values="Python 3.5.1 [condavenv]" collectionTime="1457669293591" />
+      <project id="web_blog" values="Python 3.5.1 [condavenv]" collectionTime="1462579422734" />
+      <project id="react" values="Python 3.5.1 [condavenv]" collectionTime="1462580008659" />
+      <project id="price_of_chair" values="Python 3.5.1 [condavenv]" collectionTime="1457304607796" />
+      <project id="go" values="Python 3.5.1 [condavenv]" collectionTime="1478833080120" />
+      <project id="price_alert" values="Python 3.5.1 [condavenv]" collectionTime="1457905684048" />
+      <project id="bioinformatics" values="Python 3.5.1 [condavenv]" collectionTime="1478923644733" />
+      <project id="PycharmProjects" values="Python 3.5.1 [condavenv]" collectionTime="1457108637455" />
+    </group>
+    <group name="file-type">
+      <project id="terminal_blog" values="Python,XML,UNKNOWN,PLAIN_TEXT" collectionTime="1457669293587" />
+      <project id="web_blog" values="PLAIN_TEXT,XML,HTML,Python,UNKNOWN,CSS" collectionTime="1462579422726" />
+      <project id="react" values="PLAIN_TEXT,JSON,JavaScript,XML,UNKNOWN" collectionTime="1462580008658" />
+      <project id="price_of_chair" values="JSON,Python,PLAIN_TEXT,XML,UNKNOWN" collectionTime="1457304607796" />
+      <project id="go" values="Native,Python,C++,PLAIN_TEXT,ARCHIVE,JavaScript,ReST,CSS,UNKNOWN,Images,JSON Schema,HTML,XML" collectionTime="1478833080120" />
+      <project id="price_alert" values="UNKNOWN,XML,Python,PLAIN_TEXT" collectionTime="1457905684047" />
+      <project id="bioinformatics" values="PLAIN_TEXT,Python" collectionTime="1478923644730" />
+      <project id="PycharmProjects" values="PLAIN_TEXT,XML,UNKNOWN,Python" collectionTime="1457108637451" />
+    </group>
+    <group name="module type">
+      <project id="terminal_blog" values="PYTHON_MODULE" collectionTime="1457669293514" />
+      <project id="web_blog" values="PYTHON_MODULE" collectionTime="1462579422629" />
+      <project id="react" values="PYTHON_MODULE" collectionTime="1462580008650" />
+      <project id="price_of_chair" values="PYTHON_MODULE" collectionTime="1457304607770" />
+      <project id="go" values="PYTHON_MODULE" collectionTime="1478833080085" />
+      <project id="price_alert" values="PYTHON_MODULE" collectionTime="1457905684027" />
+      <project id="bioinformatics" values="PYTHON_MODULE" collectionTime="1478923644685" />
+      <project id="PycharmProjects" values="PYTHON_MODULE" collectionTime="1457108637404" />
+    </group>
+    <group name="py-packages">
+      <project id="price_alert" values="beautifulsoup4,requests,pymongo,passlib,Flask" collectionTime="1457905684104" />
+      <project id="price_of_chair" values="requests,beautifulsoup4" collectionTime="1457304607843" />
+      <project id="web_blog" values="pymongo,Flask" collectionTime="1462579422811" />
+      <project id="terminal_blog" values="pymongo" collectionTime="1457669293695" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="9" />
+      <entry feature="NewDirectoryProjectAction.Pure Python" count="6" />
+      <entry feature="OpenInBrowser.Chrome" count="1" />
+      <entry feature="execute.PythonConfigurationType.Run" count="92" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="1" />
+      <entry feature="ide.settings.Python" count="5" />
+      <entry feature="ideaapp.started" count="25" />
+      <entry feature="python.console.local" count="3" />
+      <entry feature="tips.of.the.day.next" count="8" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="4" />
+      <entry feature="welcome.screen.null" count="2" />
+    </counts>
+  </component>
+</application>

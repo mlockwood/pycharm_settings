@@ -1,0 +1,9 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>CountHour</find>
+      <find>initialize_hour</find>
+      <find>pass_lane</find>
+    </findStrings>
+  </component>
+</application>

@@ -1,0 +1,21 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="748" y="588" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="992" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="703" y="710" />
+    <location key="SettingsEditor.0.0.1920.1080" x="461" y="401" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1920.1080" x="736" y="220" />
+    <location key="com.intellij.ide.util.TipDialog.1920.0.1920.1080" x="2624" y="479" />
+    <location key="FileChooserDialogImpl.1920.0.1920.1080" x="2695" y="360" />
+    <location key="SettingsEditor.1920.0.1920.1080" x="2381" y="247" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080" width="424" height="466" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1855" height="297" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1855" height="297" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1855" height="297" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1855" height="297" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1104" height="664" />
+    <size key="refactoring.ChangeSignatureDialog.0.0.1920.1080" width="502" height="689" />
+    <size key="FileChooserDialogImpl.1920.0.1920.1080" width="424" height="466" />
+    <size key="SettingsEditor.1920.0.1920.1080" width="1052" height="664" />
+  </component>
+</application>
